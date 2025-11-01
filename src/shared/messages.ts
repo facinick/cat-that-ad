@@ -1,0 +1,3 @@
+export const MESSAGES = {
+  TOGGLE_ENABLED: "TOGGLE_ENABLED",
+}
